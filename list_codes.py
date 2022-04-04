@@ -34,7 +34,7 @@ print(join_str)
 # 12 here u can make a str back to a list like this .
 new_join_list = join_str.split(' - ')
 print(new_join_list)
-# 13 sets {} is the same asmlist but it uotput randome values and they use this one {} like this
+# 13 sets {} is the same as list but it uotput randome values and they use this one {} like this
 sets = {'anything','anything','anything','anything','anything'}
 print(sets)
 # 14 if u want to know if u have 2 sets and they have the same input the u can sue this to check it 
